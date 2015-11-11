@@ -1,1 +1,3 @@
 # GitTraining
+
+some text.
